@@ -8,7 +8,7 @@
 -- 摘自[hongfs](https://github.com/den233/evil.js)的[issue #1](https://github.com/den233/evil.js/issues/1)，共勉
 
 * Install
-
+ 
 ```
 $ npm i lodash-miange
 ```
