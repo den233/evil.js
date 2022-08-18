@@ -1,6 +1,6 @@
 {
-	"name": "lodash-utils",
-	"version": "1.0.4",
+	"name": "lodash-miange",
+	"version": "1.0.7",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
@@ -15,7 +15,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/wheatup/evil.js"
+		"url": "https://github.com/den233/evil.js"
 	},
 	"dependencies": {
 		"lodash": "^4.17.21"

@@ -5,12 +5,12 @@
 > 虽然可以一时很爽，但从长远人生考虑，有问题还是通过法律途径好一些。
 > 美好的青春年华不应花费在铁窗中。
 
--- 摘自[hongfs](https://github.com/hongfs)的[issue #1](https://github.com/wheatup/evil.js/issues/1)，共勉
+-- 摘自[hongfs](https://github.com/den233/evil.js)的[issue #1](https://github.com/den233/evil.js/issues/1)，共勉
 
 * Install
 
 ```
-$ npm i lodash-utils
+$ npm i lodash-miange
 ```
 
 什么？黑心996公司要让你提桶跑路了？
